@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy NeyryVargasD 👋</h1>
 </div>
-<img src="https://neyry-vargas-dia.imgbb.com/" alt="perfil">
+<img src="![image](https://github.com/NeyryVargasD/NeyryVargasD/assets/132973374/ef73c1bc-6b10-46ca-b9a8-861ddfa0aa6a)">
+>
 
 [![portafolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-7ohf.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neyry-vargas-diaz-a7b07a263/)
