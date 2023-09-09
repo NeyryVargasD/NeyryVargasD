@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy NeyryVargasD 👋</h1>
 </div>
-<img src="https://ibb.co/qsZDT41">
+[![banner](https://i.ibb.co/VSKLfhB/Purple-Blue-Colorful-Gaming-Linked-In-Banner-2.png "banner")](http://https://ibb.co/qsZDT4 "banner")
 
 [![portafolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-7ohf.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neyry-vargas-diaz-a7b07a263/)
