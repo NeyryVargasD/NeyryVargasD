@@ -7,7 +7,7 @@ Desarrolladora frontend</h1>
 
 [![portafolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-7ohf.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neyry-vargas-diaz-a7b07a263/)
-[![Torre](https://img.shields.io/badge/my_torre-000?style=for-the-badge&logo=ko-fi&logoColor=white)]((https://torre.ai/neyryvargasd?r=1zTFsQyW))
+[![Torre](https://img.shields.io/badge/my_torre-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://torre.ai/neyryvargasd?r=1zTFsQyW)
 
 
 ##Contactame
