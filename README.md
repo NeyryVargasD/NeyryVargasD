@@ -10,7 +10,7 @@ Desarrolladora frontend</h1>
 [![Torre](https://img.shields.io/badge/my_torre-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://torre.ai/neyryvargasd?r=1zTFsQyW)
 
 
-## Contactame
+## Contáctame
 <h5>TELEFONO: 3133798197</h5>
 <h5>CORREO: neyry007@gmail.com</h5>
 
