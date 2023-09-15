@@ -7,6 +7,8 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neyry-vargas-diaz-a7b07a263/)
 
 
+
+
 ## Sobre mi
 
 - ⭐ Soy una apasionada programadora frontend con cuatro meses de experiencia como desarrolladora frontend.
