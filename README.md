@@ -1,6 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy NeyryVargasD 👋</h1>
-  <h1 align="center">Desarrolladora frontend</h1>
+<h1 align="center">Hola, soy NeyryVargasD 👋</h1><br/>
+Desarrolladora frontend</h1>
+  
 </div>
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
